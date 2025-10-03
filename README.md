@@ -87,7 +87,7 @@
 ## 🌍 Looking Forward
 
 - Seeking opportunities in dynamic tech landscape
-- 🇨🇦 Exploring immigration pathways to Canada
+- 🌍 Exploring immigration pathways
 - 🤖 Expanding expertise in AI model testing and evaluation
 - 📚 Continuous learning in emerging testing methodologies
 
